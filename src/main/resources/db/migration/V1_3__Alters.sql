@@ -1,0 +1,1 @@
+ALTER TABLE user modify childrennumber INT(2);

@@ -1,0 +1,1 @@
+ALTER TABLE companystate modify description varchar(255);
